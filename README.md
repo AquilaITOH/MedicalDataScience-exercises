@@ -25,7 +25,7 @@
 | 第3回 | Pythonの基礎・Iris datasetの概要 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AquilaITOH/MedicalDataScience-exercises/blob/main/26_Medical-DataScience_03.ipynb) |
 | 第4回 | データの可視化と古典的機械学習 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AquilaITOH/MedicalDataScience-exercises/blob/main/26_Medical-DataScience_04.ipynb) |
 | 第5回 | パーセプトロンから深層学習へ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AquilaITOH/MedicalDataScience-exercises/blob/main/26_Medical-DataScience_05.ipynb) |
-| 第6回 | 畳み込みニューラルネットワーク (Convolutional Neural Networks: cNN) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AquilaITOH/MedicalDataScience-exercises/blob/main/26_Medical-DataScience_06.ipynb) |
+| 第6回 | 畳み込みニューラルネットワーク | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AquilaITOH/MedicalDataScience-exercises/blob/main/26_Medical-DataScience_06.ipynb) |
 
 ## 注意事項
 
